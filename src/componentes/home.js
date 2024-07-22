@@ -1,4 +1,3 @@
-// Home.js (o paginaPrincipal.js, si prefieres ese nombre)
 import React from 'react';
 import './home.css';
 import promoImage from '../Imagenes/img_promocional.jpg';
