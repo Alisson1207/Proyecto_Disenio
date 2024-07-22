@@ -1,0 +1,48 @@
+.formularioLogin{
+  margin-left: 3%;
+  margin-right: 5%;
+  text-align: left; 
+  background-color: rgb(255, 255, 255);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(0, 0, 0);
+}
+.formularioLogin nav{
+  display: flex;
+}
+.formularioLogin button{
+  width: 100dvh;
+  font-size: medium; 
+  background-color: rgba(90, 110, 96, 1);
+  border: rgba(90, 110, 96, 1);
+  color: rgb(255, 255, 255);
+  padding: 1%;
+  border-radius: 3%;
+  margin: 40px;
+}
+
+.formularioLogin input{
+  border-radius: 1%; 
+  border: 2px solid rgba(90, 110, 96, 1);
+  width: 100%;
+  height: 25px;
+  font-size: medium;  
+  padding: 1%;
+}
+.formularioLogin button:hover{
+  background-color: rgb(193, 212, 199);
+  border:rgb(193, 212, 199);
+  color: rgb(0, 0, 0);
+}
+.paraRegistro{
+  font-size: large;
+  margin-top: 0%;
+  margin-bottom: 10%;
+}
+.paraRegistro a{
+  color: rgba(90, 110, 96, 1);
+}

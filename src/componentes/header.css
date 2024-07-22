@@ -1,0 +1,32 @@
+.header {
+    background-color: #f0f0f0;
+    padding: 10px 0;
+  }
+  
+  .barrita-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .header nav {
+    background-color: rgba(90, 110, 96, 1);
+    padding: 10px 0;
+  }
+  
+  .header nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header nav ul li {
+    margin: 0 15px;
+  }
+  
+  .header nav ul li a {
+    text-decoration: none;
+    color: white;
+  }
+  

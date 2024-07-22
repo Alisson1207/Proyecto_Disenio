@@ -1,0 +1,22 @@
+.footer {
+    background-color: #f9d2d2;
+    color: #333;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .footer div {
+    margin-bottom: 10px;
+  }
+  
+  .footer p {
+    margin: 5px 0;
+    font-size: 12px;
+  }
+  
+  .social-media span {
+    margin-right: 10px;
+    font-size: 12px;
+  }
+  
